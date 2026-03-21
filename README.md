@@ -64,3 +64,5 @@ It demonstrates rule-based AI, where spam messages are identified based on prede
 
 ## Conclusion
 Machine Learning can effectively detect spam messages in SMS. This project demonstrates a real-life application of AI and ML, combining data preprocessing, model training, and interactive prediction.
+
+![Spam SMS Classifier Screenshot](https://github.com/yug25bce10639-png/spam-sms-classifier-ml/blob/main/screenshots/Screenshot%202026-03-22%20000145.png)
