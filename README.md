@@ -51,5 +51,16 @@ python main.py
 - Command-line interface for easy testing  
 - Ready for dataset expansion
 
+
+
+## Prolog Implementation
+
+This project also includes a Prolog-based approach for spam detection using logical rules.
+
+File: spam_detection.pl
+
+It demonstrates rule-based AI, where spam messages are identified based on predefined keywords.
+
+
 ## Conclusion
 Machine Learning can effectively detect spam messages in SMS. This project demonstrates a real-life application of AI and ML, combining data preprocessing, model training, and interactive prediction.
