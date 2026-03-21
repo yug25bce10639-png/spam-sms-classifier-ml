@@ -65,12 +65,14 @@ It demonstrates rule-based AI, where spam messages are identified based on prede
 ## Conclusion
 Machine Learning can effectively detect spam messages in SMS. This project demonstrates a real-life application of AI and ML, combining data preprocessing, model training, and interactive prediction.
 
-![Spam SMS Classifier Screenshot](https://github.com/yug25bce10639-png/spam-sms-classifier-ml/blob/main/screenshots/Screenshot%202026-03-22%20000411.png)
+## Screenshots
 
-![Spam SMS Classifier Screenshot](https://github.com/yug25bce10639-png/spam-sms-classifier-ml/blob/main/screenshots/Screenshot%202026-03-22%20000145.png)
+![Screenshot 1](https://raw.githubusercontent.com/yug25bce10639-png/spam-sms-classifier-ml/main/Screenshots/Screenshot%202026-03-22%20000411.png)
 
-![Spam SMS Classifier Screenshot](https://github.com/yug25bce10639-png/spam-sms-classifier-ml/blob/main/screenshots/Screenshot%202026-03-22%20000215.png)
+![Screenshot 2](https://raw.githubusercontent.com/yug25bce10639-png/spam-sms-classifier-ml/main/Screenshots/Screenshot%202026-03-22%20000145.png)
 
-![Spam SMS Classifier Screenshot](https://github.com/yug25bce10639-png/spam-sms-classifier-ml/blob/main/screenshots/Screenshot%202026-03-22%20000312.png)
+![Screenshot 3](https://raw.githubusercontent.com/yug25bce10639-png/spam-sms-classifier-ml/main/Screenshots/Screenshot%202026-03-22%20000215.png)
 
-![Spam SMS Classifier Screenshot](https://github.com/yug25bce10639-png/spam-sms-classifier-ml/blob/main/screenshots/Screenshot%202026-03-22%20000333.png)
+![Screenshot 4](https://raw.githubusercontent.com/yug25bce10639-png/spam-sms-classifier-ml/main/Screenshots/Screenshot%202026-03-22%20000312.png)
+
+![Screenshot 5](https://raw.githubusercontent.com/yug25bce10639-png/spam-sms-classifier-ml/main/Screenshots/Screenshot%202026-03-22%20000333.png)
